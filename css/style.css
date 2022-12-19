@@ -364,7 +364,6 @@ p {
     position: relative;
 	
     background: #0294FD url(../img/pattern-1.png) top left repeat;
-    background-repeat: no-repeat;
     background-size: auto;
 }
 

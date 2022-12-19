@@ -363,9 +363,9 @@ p {
     background: #ED5441;
     position: relative;
 	
-    background: #0294FD url(../img/pattern-1.png) top left no-repeat;
-	height:1100px;
-    width:auto;
+    background: #0294FD url(../img/pattern-1.png) top left repeat;
+    background-repeat: no-repeat;
+    background-size: auto;
 }
 
 .hero_section {

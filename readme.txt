@@ -1,2 +1,2 @@
 Experiment link:
-https://zhiyuan8.github.io/AR-website/index.html
+https://zhiyuan8.github.io/AR-website/
